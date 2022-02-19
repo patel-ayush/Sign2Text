@@ -1,2 +1,1 @@
-# Sign2Text
-Sign Language to Text Translation
+# Crework---Sign-Language-Project
